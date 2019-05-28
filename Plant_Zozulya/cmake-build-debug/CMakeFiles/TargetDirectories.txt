@@ -1,0 +1,3 @@
+C:/Users/Zaza`sNote/CLionProjects/Plant_Zozulya/cmake-build-debug/CMakeFiles/Plant_Zozulya.dir
+C:/Users/Zaza`sNote/CLionProjects/Plant_Zozulya/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Zaza`sNote/CLionProjects/Plant_Zozulya/cmake-build-debug/CMakeFiles/rebuild_cache.dir
